@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alumno/Documents/Unreal Projects/UETC/Content/Interfaces/IntInteraction.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/UETC/Content/InteractObject/BP_Door.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/UETC/Content/Maps/Level1.umap",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Orco_diffuse.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Orco_glow.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Orco_specular.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Orco.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Orco_PhysicsAsset.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Orco_Skeleton.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Orco_MAT.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Orco_normal.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Animations/Idle.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Animations/Jumping.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Animations/Running.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Animations/Walking.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Maps/Level1.umap",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Blueprints/BP_Character.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Blueprints/GM_Character.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Inputs/Inp_Move.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Inputs/Inp_Look.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Inputs/Inp_Jump.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Inputs/IMC_Character.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Animations/ABP_Orco.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Animations/BS_Orco.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Blueprints/BP_Orco.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Blueprints/GM_Player.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Level1.umap",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Blueprints/BP_Orco.uasset",
+				"D:/jc-gi/UNREAL/UETC/Content/Character/Blueprints/GM_Player.uasset"
+			]
+		}
+	]
+}
